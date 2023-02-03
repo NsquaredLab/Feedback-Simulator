@@ -8,7 +8,7 @@ a = Analysis(
     ['..\\test\\main.py'],
     pathex=[],
     binaries=[],
-    datas=[('c:\\Users\\Domi\\Documents\\Projects\\feedback_simulator\\.venv\\Lib\\site-packages\\vispy\\glsl', 'vispy\\glsl'), ('c:\\Users\\Domi\\Documents\\Projects\\feedback_simulator\\.venv\\Lib\\site-packages\\vispy\\io\\_data', 'vispy\\io\\_data'), ('c:\\Users\\Domi\\Documents\\Projects\\feedback_simulator\\.venv\\Lib\\site-packages\\distributed', 'distributed')],
+    datas=[('c:\\Users\\Domi\\Documents\\Projects\\feedback-simulator-1\\.venv\\Lib\\site-packages\\vispy\\glsl', 'vispy\\glsl'), ('c:\\Users\\Domi\\Documents\\Projects\\feedback-simulator-1\\.venv\\Lib\\site-packages\\vispy\\io\\_data', 'vispy\\io\\_data'), ('c:\\Users\\Domi\\Documents\\Projects\\feedback-simulator-1\\.venv\\Lib\\site-packages\\distributed', 'distributed')],
     hiddenimports=['vispy.ext._bundled.six', 'vispy.app.backends._pyside6'],
     hookspath=[],
     hooksconfig={},
