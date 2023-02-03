@@ -36,3 +36,6 @@ Example String: "[value 0, value 1, value 2, value 3, value 4, value 5, value 6,
 3. Add the port of the Virtual Hand Interface to the feedback simulator
 4. Start the stream!
 
+
+Find us on our website: https://www.nsquared.tf.fau.de/ 
+
