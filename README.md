@@ -18,15 +18,16 @@ Click on "Start Stream" to start streaming the data and on "Stop Streaming" to s
 ## Format of the data
 The application is written to stream a string with 9 comma separated values in the shape of an array. The values represent:
 
-value 0: thumb flexion
-value 1: thumb abduction
-value 2: index flexion
-value 3: middle flexion
-value 4: ring flexion
-value 5: pinky flexion
-value 6: wrist flexion/extension # Not working atm
-value 7: Empty
-value 8: wrist supination/pronation # Not working atm
+- value 0: thumb flexion
+- value 1: thumb abduction
+- value 2: index flexion
+- value 3: middle flexion
+- value 4: ring flexion
+- value 5: pinky flexion
+- value 6: wrist flexion/extension # Not working atm
+- value 7: Empty
+- value 8: wrist supination/pronation # Not working atm
+
 Example String: "[value 0, value 1, value 2, value 3, value 4, value 5, value 6, value 7, value 8]". The string is encoded in utf-8 bytes.
 
 ## Let it stream to our Virtual Hand Interface
